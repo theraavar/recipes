@@ -1,6 +1,7 @@
 # Recipes
 
 This is a project for [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
+This project has a follow-up assignment [here](https://www.theodinproject.com/lessons/foundations-css-foundations).
 
 *Objective(s):*
 
